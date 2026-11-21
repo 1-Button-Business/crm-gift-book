@@ -1,5 +1,10 @@
 # Changelog
 
+## [2026-11-20]
+
+### Added
+- GitHub runs `npm run check` on every push and pull request to main, so a broken change shows up before it lands.
+
 ## [2026-11-18]
 
 ### Added
